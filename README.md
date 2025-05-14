@@ -1,25 +1,62 @@
-# Final Project and Deployment
+Real Estate Vibes Blog 🏡🎨
+A vibrant, colorful real estate blog showcasing bold home designs, market trends, and property inspiration.
 
-## Objectives
-Build a fully functional web application.
-Apply HTML, CSS, and JavaScript concepts learned.
-Deploy the project using GitHub Pages, Netlify, or Vercel.
+🔗 Live Demo: https://plp-webtechnologies.github.io/feb-2025-final-project-and-deployment-ManotiSparrow/
 
-## Instructions
-Choose one of the following project ideas:
-Blog Website: Implement a multi-page site with navigation.
-Ecommerce Website: Implement a multi-page site with navigation.
+📌 Features
+✅ Fully Responsive – Works on mobile, tablet, and desktop
+✅ Interactive Elements – JavaScript-powered newsletter form, smooth scrolling, and hover effects
+✅ 5 Detailed Articles – Each with 200+ words on real estate trends
+✅ Multi-Page Navigation – Home, Articles, Gallery, About, and Contact pages
+✅ Semantic HTML5 – Clean, accessible, and SEO-friendly structure
+✅ Vibrant Design – Bold colors and modern aesthetics
 
->[!NOTE]
-> - Include at least:
-> - A responsive design.
-> - JavaScript interactivity.
-> - A deployment link.
+🛠 Technologies Used
+Frontend:
 
-## Tasks
+HTML5 (semantic structure)
 
-Create a well-structured HTML5 document.
-Use at least 5 different HTML elements.
-Ensure semantic correctness.
+CSS3 (Flexbox, Grid, animations)
 
-Good luck and happy coding! 🚀💻
+JavaScript (DOM manipulation, form handling)
+
+Deployment:
+
+GitHub Pages (Static site hosting)
+
+📂 Project Structure
+📁 real-estate-vibes/  
+├── index.html          # Homepage  
+├── articles.html       # Full articles page  
+├── gallery.html        # Property image gallery  
+├── about.html          # About the company  
+├── contact.html        # Contact form  
+├── styles.css          # Main stylesheet  
+├── script.js           # JavaScript functionality  
+└── assets/             # Images and additional resources  
+🚀 Deployment
+This website was deployed via GitHub Pages:
+
+Repository hosted on GitHub
+
+GitHub Pages enabled in repository settings
+
+Automatic deployment from the main branch
+
+🔗 GitHub Repo: https://github.com/PLP-WebTechnologies/feb-2025-final-project-and-deployment-ManotiSparrow
+
+📝 How to Run Locally
+Clone the repository:
+
+sh
+git clone https://github.com/PLP-WebTechnologies/feb-2025-final-project-and-deployment-ManotiSparrow.git
+Open index.html in a browser (no server required)
+
+📬 Contact
+✉️ Email: sparrowproject@gmail.com
+📞 Phone: +254768000011
+
+📜 License
+This project is open-source under the MIT License.
+
+🌟 Happy browsing! Let’s make real estate more colorful! 🎨🏠
