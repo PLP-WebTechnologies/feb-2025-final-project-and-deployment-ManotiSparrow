@@ -33,13 +33,21 @@ A vibrant, colorful real estate blog showcasing bold home designs, market trends
 ## 📂 Project Structure
 
 📁 real-estate-vibes/
+
 ├── index.html # Homepage
+
 ├── articles.html # Full articles page
+
 ├── gallery.html # Property image gallery
+
 ├── about.html # About the company
+
 ├── contact.html # Contact form
+
 ├── styles.css # Main stylesheet
+
 ├── script.js # JavaScript functionality
+
 └── assets/ # Images and additional resources
 
 
@@ -59,12 +67,10 @@ This website was deployed via **GitHub Pages**:
 ---
 
 ## 📬 Contact
-✉️ Email: sparrowproject@gmail.com
+✉️ Email: nyamoitasparrow@gmail.com
 
-📞 Phone: +254768000011
+📞 Phone: +254768375519
 
-## 📜 License
-This project is open-source under the MIT License.
 
 
 
